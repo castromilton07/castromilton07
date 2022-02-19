@@ -91,6 +91,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=castromilton07&show_icons=true&theme=tokyonight"/>
 </a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/castromilton07/castromilton07/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 ###  <img src="https://bit.ly/handshake-gif" height="25px"/> Informações de contato
