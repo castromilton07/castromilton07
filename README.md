@@ -34,7 +34,14 @@
 ---
 ### 🛠️ Habilidades técnicas (linguagens e frameworks):
 - Front-end:
-    - JS
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-1A1B27?style=flat&logo=HTML5"/>
+  <img src="https://img.shields.io/badge/-CSS-1A1B27?style=flat&logo=CSS3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/-JavaScript-1A1B27?style=flat&logo=javascript"/>
+  <img src="https://img.shields.io/badge/-React-1A1B27?style=flat&logo=react"/>
+  <img src="https://img.shields.io/badge/-Redux-1A1B27?style=flat&logo=Redux"/>
+  <img src="https://img.shields.io/badge/-Context%20API-1A1B27?style=flat&logo=react" />
+</p>
 
 ---
 <a href="https://github.com/castromilton07/trybe-blitz-challenge">
@@ -53,4 +60,5 @@
   <a href="mailto:castro.milton07@gmail.com"><img src="https://img.shields.io/badge/-castro.milton07@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="http://be.net/milton-castro"><img src="https://img.shields.io/badge/-milton--castro-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
   <a href="https://github.com/castromilton07"><img src="https://img.shields.io/badge/-castromilton07-1A1B27?style=flat&logo=Github&logoColor=white"/></a>
+  <a href="https://open.spotify.com/user/castro.milton07"><img src="https://img.shields.io/badge/-castro.milton07-1DB954?style=flat&logo=Spotify&logoColor=white" /></a>
 </p>
