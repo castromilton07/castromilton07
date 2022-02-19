@@ -16,7 +16,7 @@
 </p>
 
 ---
-<img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px"/>
+<img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="380px"/>
 
 #### **Um pouco mais sobre mim:**
 
@@ -87,11 +87,10 @@
 <a href="https://github.com/castromilton07/trybe-blitz-challenge">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=castromilton07&repo=trybe-blitz-challenge&show_owner=1&theme=tokyonight"/>
 </a>
-
+<br>
 <a href="https://github.com/castromilton07">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=castromilton07&show_icons=true&theme=tokyonight"/>
 </a>
-<br><br><br><br><br><br><br><br>
 
 ---
 ###  <img src="https://bit.ly/handshake-gif" height="25px"/> Informações de contato
