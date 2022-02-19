@@ -85,10 +85,10 @@
 
 ---
 <a href="https://github.com/castromilton07/trybe-blitz-challenge">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=castromilton07&repo=trybe-blitz-challenge&show_owner=1&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=castromilton07&repo=trybe-blitz-challenge&show_owner=1&theme=tokyonight"/>
 </a>
 <a href="https://github.com/castromilton07">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=castromilton07&show_icons=true&theme=tokyonight" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=castromilton07&show_icons=true&theme=tokyonight"/>
 </a>
 <br><br><br><br><br><br><br><br>
 
@@ -100,5 +100,9 @@
   <a href="mailto:castro.milton07@gmail.com"><img src="https://img.shields.io/badge/-castro.milton07@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="http://be.net/milton-castro"><img src="https://img.shields.io/badge/-milton--castro-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
   <a href="https://github.com/castromilton07"><img src="https://img.shields.io/badge/-castromilton07-1A1B27?style=flat&logo=Github&logoColor=white"/></a>
-  <a href="https://open.spotify.com/user/castro.milton07"><img src="https://img.shields.io/badge/-castro.milton07-1DB954?style=flat&logo=Spotify&logoColor=white" /></a>
+  <a href="https://open.spotify.com/user/castro.milton07"><img src="https://img.shields.io/badge/-castro.milton07-1DB954?style=flat&logo=Spotify&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=castromilton07"/>
 </p>
