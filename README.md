@@ -34,13 +34,53 @@
 ---
 ### 🛠️ Habilidades técnicas (linguagens e frameworks):
 - Front-end:
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/-HTML5-1A1B27?style=flat&logo=HTML5"/>
-  <img src="https://img.shields.io/badge/-CSS-1A1B27?style=flat&logo=CSS3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/-CSS3-1A1B27?style=flat&logo=CSS3&logoColor=1572B6"/>
   <img src="https://img.shields.io/badge/-JavaScript-1A1B27?style=flat&logo=javascript"/>
   <img src="https://img.shields.io/badge/-React-1A1B27?style=flat&logo=react"/>
   <img src="https://img.shields.io/badge/-Redux-1A1B27?style=flat&logo=Redux"/>
   <img src="https://img.shields.io/badge/-Context%20API-1A1B27?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/React%20Router-1A1B27?style=flat&logo=react-router" />
+  <img src="https://img.shields.io/badge/-Bootstrap-1A1B27?style=flat&logo=bootstrap" />
+  <img src="https://img.shields.io/badge/-styled--components-1A1B27?style=flat&logo=styled-components" />
+  
+</p>
+
+- Back-end:
+<p align="left">
+  <img src="https://img.shields.io/badge/-NodeJS-1A1B27?style=flat&logo=Node.js"/>
+  <img src="https://img.shields.io/badge/-ExpressJS-1A1B27?style=flat&logo=express"/>
+  <img src="https://img.shields.io/badge/-JWT-1A1B27?style=flat"/>
+  <img src="https://img.shields.io/badge/-Sequelize-1A1B27?style=flat&logo=sequelize"/>
+  <img src="https://img.shields.io/badge/-SocketIO-1A1B27?style=flat&logo=socket.io"/>
+</p>
+
+- Banco de dados:
+<p align="left">
+  <img src="https://img.shields.io/badge/-MySQL-1A1B27?style=flat&logo=mysql"/>
+  <img src="https://img.shields.io/badge/-MongoDB-1A1B27?style=flat&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/-SQL Server-1A1B27?style=flat&logo=microsoft-sql-server"/>
+</p>
+
+- Deploy:
+<p align="left">
+  <img src="https://img.shields.io/badge/-Heroku-1A1B27?style=flat&logo=heroku"/>
+</p>
+
+- Versionamento:
+<p align="left">
+  <img src="https://img.shields.io/badge/-Git-1A1B27?style=flat&logo=git"/>
+  <img src="https://img.shields.io/badge/-Github-1A1B27?style=flat&logo=github"/>
+</p>
+
+- Outras linguagens:
+<p align="left">
+  <img src="https://img.shields.io/badge/-C-1A1B27?style=flat&logo=c"/>
+  <img src="https://img.shields.io/badge/-C%2B%2B-1A1B27?style=flat&logo=c%2B%2B"/>
+  <img src="https://img.shields.io/badge/-C%23-1A1B27?style=flat&logo=c-sharp"/>
+  <img src="https://img.shields.io/badge/-Java-1A1B27?style=flat&logo=java"/>
+  <img src="https://img.shields.io/badge/-VBA-1A1B27?style=flat&"/>
 </p>
 
 ---
