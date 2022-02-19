@@ -1,6 +1,5 @@
 ### <img src="https://bit.ly/hello-gif" width="50px"/> Olá Mundo, sou Milton Castro
 
----
 <p align="center" >
   <samp>
   	<br>Estou em busca da minha primeira oportunidade de trabalho como desenvolvedor,
@@ -84,12 +83,13 @@
 </p>
 
 ---
-<a href="https://github.com/castromilton07/trybe-blitz-challenge">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=castromilton07&repo=trybe-blitz-challenge&show_owner=1&theme=tokyonight"/>
-</a>
-<br>
-<a href="https://github.com/castromilton07">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=castromilton07&show_icons=true&theme=tokyonight"/>
+<p align="center">
+  <a href="https://github.com/castromilton07/trybe-blitz-challenge">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=castromilton07&repo=trybe-blitz-challenge&show_owner=1&theme=tokyonight"/>
+  </a>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=castromilton07&show_icons=true&theme=tokyonight"/>
 </a>
 
 ---
