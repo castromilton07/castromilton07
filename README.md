@@ -4,7 +4,7 @@
   <samp>
   	<br>Estou em busca da minha primeira oportunidade de trabalho como desenvolvedor,
   	<br>almejo um ambiente acolhedor, projetos desafiadores em que eu possa aprimorar minhas habilidades
-  	<br>e continuar o aprendendo novas tecnologias.
+  	<br>e continuar aprendendo novas tecnologias.
     <br>
   	<br>Sou apaixonado e entusiasta por tecnologia,
   	<br>atualmente estudo Desenvolvimento Web na Trybe
