@@ -8,7 +8,7 @@
     <br>
   	<br>Sou apaixonado e entusiasta por tecnologia,
   	<br>atualmente estudo Desenvolvimento Web na Trybe
-    <br>e estou me dedicando para aprimorar minhas habilidades em
+    <br>e estou me dedicando no aprendizado de
   	<br>HTML5, CSS3, JavaScript ES6, React.js, Redux.js,
   	<br>MySQL, MongoDB, Node.js e Python.
   </samp>
