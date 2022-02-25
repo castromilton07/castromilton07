@@ -75,6 +75,7 @@
 
 - Outras linguagens:
 <p align="left">
+  <img src="https://img.shields.io/badge/-Python-1A1B27?style=flat&logo=python"/>
   <img src="https://img.shields.io/badge/-C-1A1B27?style=flat&logo=c"/>
   <img src="https://img.shields.io/badge/-C%2B%2B-1A1B27?style=flat&logo=c%2B%2B"/>
   <img src="https://img.shields.io/badge/-C%23-1A1B27?style=flat&logo=c-sharp"/>
