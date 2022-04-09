@@ -2,15 +2,18 @@
 
 <p align="center" >
   <samp>
-  	<br>Estou em busca da minha primeira oportunidade de trabalho como desenvolvedor,
-  	<br>almejo um ambiente acolhedor, projetos desafiadores em que eu possa aprimorar minhas habilidades
-  	<br>e continuar aprendendo novas tecnologias.
+  	<br>Estou em uma jornada de constante aprendizado voltado para garantia de qualidade de software
+    <br>(especificadamente aplicações web), experiências práticas com testes
+    <br>(funcionais, regressão, desempenho e exploratório),
+    <br>automatização de testes e revisão de código.
+    <br>Busco projetos desafiadores em que eu possa aprimorar
+    <br>minhas habilidades e continuar aprendendo novas tecnologias.
     <br>
-  	<br>Sou apaixonado e entusiasta por tecnologia,
-  	<br>atualmente estudo Desenvolvimento Web na Trybe
-    <br>e estou me dedicando no aprendizado de
-  	<br>HTML5, CSS3, JavaScript ES6, React.js, Redux.js,
-  	<br>MySQL, MongoDB, Node.js e Python.
+    <br>Sou apaixonado e entusiasta por tecnologia,
+    <br>recentemente concluí o curso de Desenvolvimento Web na Trybe
+    <br>e estou me dedicando em desenvolver minhas habilidades com
+    <br>JavaScript ES6, React.js, Node.js, Cypress.io, Jest,
+    <br>React Testing Library, babel, webpacker e Ruby On Rails.
   </samp>
 </p>
 
@@ -55,6 +58,15 @@
   <img src="https://img.shields.io/badge/-SocketIO-1A1B27?style=flat&logo=socket.io"/>
 </p>
 
+- Testes:
+<p align="left">
+  <img src="https://img.shields.io/badge/-Jest-1A1B27?style=flat&logo=jest"/>
+  <img src="https://img.shields.io/badge/-ReactTestingLibrary-1A1B27?style=flat&logo=rtl"/>
+  <img src="https://img.shields.io/badge/-Cypress-1A1B27?style=flat&logo=cypress"/>
+  <img src="https://img.shields.io/badge/-Mocha-1A1B27?style=flat&logo=mocha"/>
+  <img src="https://img.shields.io/badge/-Selenium-1A1B27?style=flat&logo=selenium"/>
+</p>
+
 - Banco de dados:
 <p align="left">
   <img src="https://img.shields.io/badge/-MySQL-1A1B27?style=flat&logo=mysql"/>
@@ -65,6 +77,7 @@
 - Deploy:
 <p align="left">
   <img src="https://img.shields.io/badge/-Heroku-1A1B27?style=flat&logo=heroku"/>
+  <img src="https://img.shields.io/badge/-AWS EC2-1A1B27?style=flat&logo=amazon"/>
 </p>
 
 - Versionamento:
