@@ -12,7 +12,7 @@
     <br>Sou apaixonado e entusiasta por tecnologia,
     <br>graduado em Engenharia de Computação pela UFGD,
     <br>recentemente concluí o curso de Desenvolvimento Web na Trybe
-    <br>e estou me dedicando em desenvolver minhas habilidades com
+    <br>e estou me dedicando em desenvolver minhas habilidades em
     <br>JavaScript ES6, React.js, Node.js, Cypress.io, Jest,
     <br>React Testing Library, babel, webpacker e Ruby On Rails.
   </samp>
